@@ -1,4 +1,4 @@
-thinny-for-hexo
+Thinny-for-Hexo
 ===============
 
 ----
