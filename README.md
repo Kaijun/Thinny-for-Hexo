@@ -1,4 +1,6 @@
 thinny-for-hexo
 ===============
 
-It's a Hexo theme, which is ported from a jekyll theme called "Thinny"
+----
+
+It's a [Hexo](https://github.com/tommy351/hexo) theme, which is ported from a jekyll theme called "[Thinny](https://github.com/camporez/Thinny)".
