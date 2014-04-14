@@ -1,7 +1,7 @@
 Thinny-for-Hexo
 ===============
 
-```##Under Construction```
+###```Under Construction```
 
 ----
 
